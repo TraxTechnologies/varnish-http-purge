@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Varnish HTTP Purge
+Plugin Name: Trax Varnish HTTP Purge
 Plugin URI: https://halfelf.org/plugins/varnish-http-purge/
 Description: Automatically empty pages cached by Varnish when content on your site is modified.
 Version: 4.1-beta
